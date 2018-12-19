@@ -1,3 +1,6 @@
+# by Jason Basden
+
+
 import random
 import string
 
